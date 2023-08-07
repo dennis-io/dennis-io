@@ -10,7 +10,7 @@ I'm a **`Cybersecurity Professional, CTF enthusiast and coffee connoisseur`**. I
 
 # 📚 My latest blog posts
 
-- [How To Run A MFA Registrion Campaign In Azure](https://neutronsec.com/blog/2022/10/11/how-to-run-a-mfa-registration-campaign-in-azure/)
+- [How To Run A MFA Registration Campaign In Azure](https://neutronsec.com/blog/2022/10/11/how-to-run-a-mfa-registration-campaign-in-azure/)
 - [How To: Azure AD Security - Conditional Access](https://neutronsec.com/blog/2022/10/10/how-to-azure-ad-security-conditional-access/)
 - [How To Deploy Sysmon via GPO](https://neutronsec.com/blog/2022/10/03/how-to-deploy-sysmon-via-gpo/)
 - [Sending Powershell Messages To Slack Using Webhooks](https://neutronsec.com/blog/2022/09/18/sending-powershell-messages-to-slack-using-webhooks/)
