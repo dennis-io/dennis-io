@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a **`Cybersecurity Professional, CTF enthusiast and coffee connoisseur`**. I maintain a blog and provide a comprehensive documentation at [neutronsec.com](neutronsec.com), where I share insights, tutorials, and resources pertaining to cybersecurity.
+I'm a **`Cybersecurity Professional, CTF enthusiast and coffee connoisseur`**. I maintain a blog and provide a comprehensive documentation at [neutronsec.com](https://neutronsec.com), where I share insights, tutorials, and resources pertaining to cybersecurity.
 
 ---
 
